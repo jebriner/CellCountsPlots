@@ -1,0 +1,345 @@
+Specimen,Sex,Morph,Stain,OmmType,OmmCoEx,OmmCount,OmmTotal,OmmPercent
+HDO648fr,female,red,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,65,458,14.19213974
+HDO648fr,female,red,UV1-UV2-B,UV2 / UV1,0,1,458,0.218340611
+HDO648fr,female,red,UV1-UV2-B,UV2 / UV1- UV2,1,12,458,2.620087336
+HDO648fr,female,red,UV1-UV2-B,B-LW / UV1-UV2,2,18,458,3.930131004
+HDO648fr,female,red,UV1-UV2-B,UV2 / B-LW,1,2,458,0.436681223
+HDO648fr,female,red,UV1-UV2-B,B-LW / B-LW,2,46,458,10.04366812
+HDO648fr,female,red,UV1-UV2-B,B / B-LW,1,54,458,11.79039301
+HDO648fr,female,red,UV1-UV2-B,B/B,0,65,458,14.19213974
+HDO648fr,female,red,UV1-UV2-B,B / UV1,0,98,458,21.39737991
+HDO648fr,female,red,UV1-UV2-B,UV1 / B-LW,1,90,458,19.65065502
+HDO648fr,female,red,UV1-UV2-B,UV1 / UV1,0,0,458,0
+HDO648fr,female,red,UV1-UV2-B,UV2 / UV2,0,5,458,1.091703057
+HDO648fr,female,red,UV1-UV2-B,UV2 / B,0,0,458,0
+HDO648fr,female,red,UV1-UV2-B,UV1-UV2 / B,1,1,458,0.218340611
+HDO648fr,female,red,UV1-UV2-B,UV1-UV2 / UV1,1,1,458,0.218340611
+HDO706bf,female,blue,UV1-B-LW,UV1-UV2 / UV1-UV2,2,161,977,16.4790174
+HDO706bf,female,blue,UV1-B-LW,UV2 / UV1,0,27,977,2.763561924
+HDO706bf,female,blue,UV1-B-LW,UV2 / UV1- UV2,1,0,977,0
+HDO706bf,female,blue,UV1-B-LW,B-LW / UV1-UV2,2,8,977,0.818833163
+HDO706bf,female,blue,UV1-B-LW,UV2 / B-LW,1,4,977,0.409416581
+HDO706bf,female,blue,UV1-B-LW,B-LW / B-LW,2,76,977,7.778915046
+HDO706bf,female,blue,UV1-B-LW,B / B-LW,1,126,977,12.89662231
+HDO706bf,female,blue,UV1-B-LW,B/B,0,61,977,6.243602866
+HDO706bf,female,blue,UV1-B-LW,B / UV1,0,238,977,24.36028659
+HDO706bf,female,blue,UV1-B-LW,UV1 / B-LW,1,210,977,21.49437052
+HDO706bf,female,blue,UV1-B-LW,UV1 / UV1,0,39,977,3.991811668
+HDO706bf,female,blue,UV1-B-LW,UV2 / UV2,0,2,977,0.204708291
+HDO706bf,female,blue,UV1-B-LW,UV2 / B,0,2,977,0.204708291
+HDO706bf,female,blue,UV1-B-LW,UV1-UV2 / B,1,0,977,0
+HDO706bf,female,blue,UV1-B-LW,UV1-UV2 / UV1,1,23,977,2.354145343
+HDO647fg,female,green,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,4,117,3.418803419
+HDO647fg,female,green,UV1-UV2-B,UV2 / UV1,0,2,117,1.709401709
+HDO647fg,female,green,UV1-UV2-B,UV2 / UV1- UV2,1,0,117,0
+HDO647fg,female,green,UV1-UV2-B,B-LW / UV1-UV2,2,13,117,11.11111111
+HDO647fg,female,green,UV1-UV2-B,UV2 / B-LW,1,3,117,2.564102564
+HDO647fg,female,green,UV1-UV2-B,B-LW / B-LW,2,8,117,6.837606838
+HDO647fg,female,green,UV1-UV2-B,B / B-LW,1,12,117,10.25641026
+HDO647fg,female,green,UV1-UV2-B,B/B,0,10,117,8.547008547
+HDO647fg,female,green,UV1-UV2-B,B / UV1,0,29,117,24.78632479
+HDO647fg,female,green,UV1-UV2-B,UV1 / B-LW,1,5,117,4.273504274
+HDO647fg,female,green,UV1-UV2-B,UV1 / UV1,0,1,117,0.854700855
+HDO647fg,female,green,UV1-UV2-B,UV2 / UV2,0,17,117,14.52991453
+HDO647fg,female,green,UV1-UV2-B,UV2 / B,0,2,117,1.709401709
+HDO647fg,female,green,UV1-UV2-B,UV1-UV2 / B,1,10,117,8.547008547
+HDO647fg,female,green,UV1-UV2-B,UV1-UV2 / UV1,1,1,117,0.854700855
+HDO179fr,female,red,UV1-UV2,UV1-UV2 / UV1-UV2,2,29,259,11.1969112
+HDO179fr,female,red,UV1-UV2,UV2 / UV1,0,13,259,5.019305019
+HDO179fr,female,red,UV1-UV2,UV2 / UV1- UV2,1,6,259,2.316602317
+HDO179fr,female,red,UV1-UV2,B-LW / UV1-UV2,2,2,259,0.772200772
+HDO179fr,female,red,UV1-UV2,UV2 / B-LW,1,0,259,0
+HDO179fr,female,red,UV1-UV2,B-LW / B-LW,2,0,259,0
+HDO179fr,female,red,UV1-UV2,B / B-LW,1,0,259,0
+HDO179fr,female,red,UV1-UV2,B/B,0,100,259,38.61003861
+HDO179fr,female,red,UV1-UV2,B / UV1,0,95,259,36.67953668
+HDO179fr,female,red,UV1-UV2,UV1 / B-LW,1,0,259,0
+HDO179fr,female,red,UV1-UV2,UV1 / UV1,0,1,259,0.386100386
+HDO179fr,female,red,UV1-UV2,UV2 / UV2,0,9,259,3.474903475
+HDO179fr,female,red,UV1-UV2,UV2 / B,0,3,259,1.158301158
+HDO179fr,female,red,UV1-UV2,UV1-UV2 / B,1,1,259,0.386100386
+HDO179fr,female,red,UV1-UV2,UV1-UV2 / UV1,1,0,259,0
+HDO699fg,female,green,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,56,545,10.27522936
+HDO699fg,female,green,UV1-UV2-B,UV2 / UV1,0,0,545,0
+HDO699fg,female,green,UV1-UV2-B,UV2 / UV1- UV2,1,0,545,0
+HDO699fg,female,green,UV1-UV2-B,B-LW / UV1-UV2,2,0,545,0
+HDO699fg,female,green,UV1-UV2-B,UV2 / B-LW,1,0,545,0
+HDO699fg,female,green,UV1-UV2-B,B-LW / B-LW,2,119,545,21.83486239
+HDO699fg,female,green,UV1-UV2-B,B / B-LW,1,6,545,1.100917431
+HDO699fg,female,green,UV1-UV2-B,B/B,0,141,545,25.87155963
+HDO699fg,female,green,UV1-UV2-B,B / UV1,0,178,545,32.66055046
+HDO699fg,female,green,UV1-UV2-B,UV1 / B-LW,1,0,545,0
+HDO699fg,female,green,UV1-UV2-B,UV1 / UV1,0,18,545,3.302752294
+HDO699fg,female,green,UV1-UV2-B,UV2 / UV2,0,0,545,0
+HDO699fg,female,green,UV1-UV2-B,UV2 / B,0,0,545,0
+HDO699fg,female,green,UV1-UV2-B,UV1-UV2 / B,1,23,545,4.220183486
+HDO699fg,female,green,UV1-UV2-B,UV1-UV2 / UV1,1,4,545,0.733944954
+HDO703fb,female,blue,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,17,159,10.6918239
+HDO703fb,female,blue,UV1-UV2-B,UV2 / UV1,0,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,UV2 / UV1- UV2,1,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,B-LW / UV1-UV2,2,2,159,1.257861635
+HDO703fb,female,blue,UV1-UV2-B,UV2 / B-LW,1,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,B-LW / B-LW,2,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,B / B-LW,1,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,B/B,0,46,159,28.93081761
+HDO703fb,female,blue,UV1-UV2-B,B / UV1,0,85,159,53.4591195
+HDO703fb,female,blue,UV1-UV2-B,UV1 / B-LW,1,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,UV1 / UV1,0,9,159,5.660377358
+HDO703fb,female,blue,UV1-UV2-B,UV2 / UV2,0,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,UV2 / B,0,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,UV1-UV2 / B,1,0,159,0
+HDO703fb,female,blue,UV1-UV2-B,UV1-UV2 / UV1,1,0,159,0
+HDO704bm,male,blue,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,8,233,3.433476395
+HDO704bm,male,blue,UV1-UV2-B,UV2 / UV1,0,2,233,0.858369099
+HDO704bm,male,blue,UV1-UV2-B,UV2 / UV1- UV2,1,0,233,0
+HDO704bm,male,blue,UV1-UV2-B,B-LW / UV1-UV2,2,14,233,6.008583691
+HDO704bm,male,blue,UV1-UV2-B,UV2 / B-LW,1,69,233,29.61373391
+HDO704bm,male,blue,UV1-UV2-B,B-LW / B-LW,2,7,233,3.004291845
+HDO704bm,male,blue,UV1-UV2-B,B / B-LW,1,38,233,16.30901288
+HDO704bm,male,blue,UV1-UV2-B,B/B,0,28,233,12.01716738
+HDO704bm,male,blue,UV1-UV2-B,B / UV1,0,0,233,0
+HDO704bm,male,blue,UV1-UV2-B,UV1 / B-LW,1,41,233,17.59656652
+HDO704bm,male,blue,UV1-UV2-B,UV1 / UV1,0,20,233,8.583690987
+HDO704bm,male,blue,UV1-UV2-B,UV2 / UV2,0,0,233,0
+HDO704bm,male,blue,UV1-UV2-B,UV2 / B,0,0,233,0
+HDO704bm,male,blue,UV1-UV2-B,UV1-UV2 / B,1,0,233,0
+HDO704bm,male,blue,UV1-UV2-B,UV1-UV2 / UV1,1,6,233,2.575107296
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV1-UV2 / UV1-UV2,2,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV2 / UV1,0,3,61,4.918032787
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV2 / UV1- UV2,1,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,B-LW / UV1-UV2,2,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV2 / B-LW,1,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,B-LW / B-LW,2,4,61,6.557377049
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,B / B-LW,1,15,61,24.59016393
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,B/B,0,9,61,14.75409836
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,B / UV1,0,2,61,3.278688525
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV1 / B-LW,1,9,61,14.75409836
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV1 / UV1,0,12,61,19.67213115
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV2 / UV2,0,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV2 / B,0,6,61,9.836065574
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV1-UV2 / B,1,0,61,0
+"HDO707gm ""LA..1""",male,green,UV1-B-LW,UV1-UV2 / UV1,1,1,61,1.639344262
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV1-UV2 / UV1-UV2,2,42,425,9.882352941
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV2 / UV1,0,11,425,2.588235294
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV2 / UV1- UV2,1,1,425,0.235294118
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,B-LW / UV1-UV2,2,2,425,0.470588235
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV2 / B-LW,1,0,425,0
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,B-LW / B-LW,2,34,425,8
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,B / B-LW,1,98,425,23.05882353
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,B/B,0,29,425,6.823529412
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,B / UV1,0,17,425,4
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV1 / B-LW,1,121,425,28.47058824
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV1 / UV1,0,54,425,12.70588235
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV2 / UV2,0,0,425,0
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV2 / B,0,0,425,0
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV1-UV2 / B,1,0,425,0
+"HDO707gm  ""LA..2""",male,green,UV1-B-LW,UV1-UV2 / UV1,1,16,425,3.764705882
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV1-UV2 / UV1-UV2,2,10,131,7.633587786
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV2 / UV1,0,1,131,0.763358779
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV2 / UV1- UV2,1,0,131,0
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,B-LW / UV1-UV2,2,2,131,1.526717557
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV2 / B-LW,1,0,131,0
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,B-LW / B-LW,2,16,131,12.21374046
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,B / B-LW,1,19,131,14.50381679
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,B/B,0,16,131,12.21374046
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,B / UV1,0,15,131,11.45038168
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV1 / B-LW,1,22,131,16.79389313
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV1 / UV1,0,19,131,14.50381679
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV2 / UV2,0,0,131,0
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV2 / B,0,3,131,2.290076336
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV1-UV2 / B,1,3,131,2.290076336
+"HDO707gm  ""LA..20x_3""",male,green,UV1-B-LW,UV1-UV2 / UV1,1,5,131,3.816793893
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,45,179,25.1396648
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV2 / UV1,0,2,179,1.117318436
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV2 / UV1- UV2,1,9,179,5.027932961
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,B-LW / UV1-UV2,2,24,179,13.40782123
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV2 / B-LW,1,4,179,2.234636872
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,B-LW / B-LW,2,14,179,7.82122905
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,B / B-LW,1,28,179,15.6424581
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,B/B,0,21,179,11.73184358
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,B / UV1,0,6,179,3.351955307
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV1 / B-LW,1,1,179,0.558659218
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV1 / UV1,0,4,179,2.234636872
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV2 / UV2,0,0,179,0
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV2 / B,0,7,179,3.910614525
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV1-UV2 / B,1,8,179,4.469273743
+"HDO707gm  ""LB""",male,green,UV1-UV2-B,UV1-UV2 / UV1,1,6,179,3.351955307
+HDO649mr,male,red,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,0,169,0
+HDO649mr,male,red,UV1-UV2-B,UV2 / UV1,0,0,169,0
+HDO649mr,male,red,UV1-UV2-B,UV2 / UV1- UV2,1,0,169,0
+HDO649mr,male,red,UV1-UV2-B,B-LW / UV1-UV2,2,3,169,1.775147929
+HDO649mr,male,red,UV1-UV2-B,UV2 / B-LW,1,3,169,1.775147929
+HDO649mr,male,red,UV1-UV2-B,B-LW / B-LW,2,28,169,16.56804734
+HDO649mr,male,red,UV1-UV2-B,B / B-LW,1,19,169,11.24260355
+HDO649mr,male,red,UV1-UV2-B,B/B,0,20,169,11.83431953
+HDO649mr,male,red,UV1-UV2-B,B / UV1,0,2,169,1.183431953
+HDO649mr,male,red,UV1-UV2-B,UV1 / B-LW,1,39,169,23.07692308
+HDO649mr,male,red,UV1-UV2-B,UV1 / UV1,0,18,169,10.65088757
+HDO649mr,male,red,UV1-UV2-B,UV2 / UV2,0,0,169,0
+HDO649mr,male,red,UV1-UV2-B,UV2 / B,0,35,169,20.71005917
+HDO649mr,male,red,UV1-UV2-B,UV1-UV2 / B,1,0,169,0
+HDO649mr,male,red,UV1-UV2-B,UV1-UV2 / UV1,1,2,169,1.183431953
+HDO646mg,male,green,UV1-UV2-B,UV1-UV2 / UV1-UV2,2,4,197,2.030456853
+HDO646mg,male,green,UV1-UV2-B,UV2 / UV1,0,1,197,0.507614213
+HDO646mg,male,green,UV1-UV2-B,UV2 / UV1- UV2,1,0,197,0
+HDO646mg,male,green,UV1-UV2-B,B-LW / UV1-UV2,2,11,197,5.583756345
+HDO646mg,male,green,UV1-UV2-B,UV2 / B-LW,1,1,197,0.507614213
+HDO646mg,male,green,UV1-UV2-B,B-LW / B-LW,2,15,197,7.614213198
+HDO646mg,male,green,UV1-UV2-B,B / B-LW,1,13,197,6.598984772
+HDO646mg,male,green,UV1-UV2-B,B/B,0,15,197,7.614213198
+HDO646mg,male,green,UV1-UV2-B,B / UV1,0,1,197,0.507614213
+HDO646mg,male,green,UV1-UV2-B,UV1 / B-LW,1,29,197,14.72081218
+HDO646mg,male,green,UV1-UV2-B,UV1 / UV1,0,38,197,19.2893401
+HDO646mg,male,green,UV1-UV2-B,UV2 / UV2,0,0,197,0
+HDO646mg,male,green,UV1-UV2-B,UV2 / B,0,64,197,32.48730964
+HDO646mg,male,green,UV1-UV2-B,UV1-UV2 / B,1,2,197,1.015228426
+HDO646mg,male,green,UV1-UV2-B,UV1-UV2 / UV1,1,3,197,1.52284264
+HDO170mg,male,green,UV1-UV2,UV1-UV2 / UV1-UV2,2,2,845,0.236686391
+HDO170mg,male,green,UV1-UV2,UV2 / UV1,0,1,845,0.118343195
+HDO170mg,male,green,UV1-UV2,UV2 / UV1- UV2,1,0,845,0
+HDO170mg,male,green,UV1-UV2,B-LW / UV1-UV2,2,0,845,0
+HDO170mg,male,green,UV1-UV2,UV2 / B-LW,1,1,845,0.118343195
+HDO170mg,male,green,UV1-UV2,B-LW / B-LW,2,0,845,0
+HDO170mg,male,green,UV1-UV2,B / B-LW,1,2,845,0.236686391
+HDO170mg,male,green,UV1-UV2,B/B,0,215,845,25.44378698
+HDO170mg,male,green,UV1-UV2,B / UV1,0,192,845,22.72189349
+HDO170mg,male,green,UV1-UV2,UV1 / B-LW,1,6,845,0.710059172
+HDO170mg,male,green,UV1-UV2,UV1 / UV1,0,187,845,22.13017751
+HDO170mg,male,green,UV1-UV2,UV2 / UV2,0,0,845,0
+HDO170mg,male,green,UV1-UV2,UV2 / B,0,207,845,24.49704142
+HDO170mg,male,green,UV1-UV2,UV1-UV2 / B,1,17,845,2.01183432
+HDO170mg,male,green,UV1-UV2,UV1-UV2 / UV1,1,15,845,1.775147929
+HDO171mg,male,green,UV1-UV2,UV1-UV2 / UV1-UV2,2,2,838,0.238663484
+HDO171mg,male,green,UV1-UV2,UV2 / UV1,0,0,838,0
+HDO171mg,male,green,UV1-UV2,UV2 / UV1- UV2,1,0,838,0
+HDO171mg,male,green,UV1-UV2,B-LW / UV1-UV2,2,0,838,0
+HDO171mg,male,green,UV1-UV2,UV2 / B-LW,1,12,838,1.431980907
+HDO171mg,male,green,UV1-UV2,B-LW / B-LW,2,0,838,0
+HDO171mg,male,green,UV1-UV2,B / B-LW,1,0,838,0
+HDO171mg,male,green,UV1-UV2,B/B,0,205,838,24.46300716
+HDO171mg,male,green,UV1-UV2,B / UV1,0,203,838,24.22434368
+HDO171mg,male,green,UV1-UV2,UV1 / B-LW,1,2,838,0.238663484
+HDO171mg,male,green,UV1-UV2,UV1 / UV1,0,191,838,22.79236277
+HDO171mg,male,green,UV1-UV2,UV2 / UV2,0,0,838,0
+HDO171mg,male,green,UV1-UV2,UV2 / B,0,199,838,23.74701671
+HDO171mg,male,green,UV1-UV2,UV1-UV2 / B,1,10,838,1.193317422
+HDO171mg,male,green,UV1-UV2,UV1-UV2 / UV1,1,14,838,1.670644391
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
